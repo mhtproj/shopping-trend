@@ -1,0 +1,5 @@
+E:\Malay\Projects\Web\GitMaster\shopping-trend\FashionTrends\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Malay\Projects\Web\GitMaster\shopping-trend\FashionTrends\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Malay\Projects\Web\GitMaster\shopping-trend\FashionTrends\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Malay\Projects\Web\GitMaster\shopping-trend\FashionTrends\obj\Debug\netcoreapp2.1\FashionTrends.AssemblyInfoInputs.cache
+E:\Malay\Projects\Web\GitMaster\shopping-trend\FashionTrends\obj\Debug\netcoreapp2.1\FashionTrends.AssemblyInfo.cs
